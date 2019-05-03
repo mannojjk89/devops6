@@ -1,0 +1,3 @@
+firstly directory created by me
+there after go into this directory
+create a file amit.txt
